@@ -1,0 +1,19 @@
+### Java ###
+*.class
+
+### IntelliJ IDEA ###
+.idea/
+out/
+*.iml
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
